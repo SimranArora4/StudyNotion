@@ -39,7 +39,7 @@ const {
     createSubSection,
     updateSubSection,
     deleteSubSection
-} = require('../controllers/SubSection');
+} = require('../controllers/Subsection');
 
 
 // rating controllers
