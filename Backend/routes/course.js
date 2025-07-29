@@ -31,7 +31,7 @@ const {
     createSection,
     updateSection,
     deleteSection,
-} = require('../controllers/section');
+} = require('../controllers/Section');
 
 
 // subSections controllers
