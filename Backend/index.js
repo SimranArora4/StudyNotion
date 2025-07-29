@@ -21,7 +21,7 @@ database.connect();
 const allowedOrigins = [
   "http://localhost:3000",
   "http://127.0.0.1:3000",
-  "https://study-notion-gamma-eight.vercel.app", // Your deployed frontend
+  "https://study-notion-gamma-eight.vercel.app", //  deployed frontend
 ];
 
 app.use(express.json());
